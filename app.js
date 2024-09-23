@@ -9,14 +9,16 @@ const __dirname = dirname(__filename);
 
 const app = express();
 app.use(express.json());
+app.use(express.static('public'));
 app.use('/amn', amnController);
 const port = 7499;
 
-app.get('/', (req, res) => {
+// app.get('/', (req, res) => {
   
-    res.sendFile(__dirname + '/views/index.html');
-})
+//     res.sendFile(__dirname + '/public/views/index.html');
+// })
 
 app.listen(port, () => {
     log('Server is running on port ' + port + 'visit http://localhost:' + port);
 });
+
