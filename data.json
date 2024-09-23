@@ -1,0 +1,80 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "M16",
+    "status": true,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "M4A1",
+    "status": false,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "type": "AK-47",
+    "status": true,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "type": "Glock 19",
+    "status": false,
+    "active": false
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "type": "Desert Eagle",
+    "status": true,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "type": "Uzi",
+    "status": false,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "type": "FN SCAR",
+    "status": true,
+    "active": false
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "type": "Remington 870",
+    "status": true,
+    "active": true
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "type": "Barrett M82",
+    "status": false,
+    "active": false
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "type": "HK416",
+    "status": true,
+    "active": true
+  },
+  {
+    "type": "HK416",
+    "status": true,
+    "active": true,
+    "id": "b3cbcf53-09b8-4cf8-851f-c5e7230b61a5"
+  },
+  {
+    "id": "3ed7bd8b-34e1-44d0-8715-bef67f6aa726",
+    "type": "m20",
+    "status": true,
+    "active": true
+  },
+  {
+    "id": "f06a51e0-7692-4d4f-abb2-d26d39a76a81",
+    "type": "m30",
+    "status": true,
+    "active": true
+  }
+]
